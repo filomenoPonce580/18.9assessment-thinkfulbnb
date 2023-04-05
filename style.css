@@ -192,14 +192,15 @@ footer p {
   }
 
   /*----------- about------ */
-  #about div{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-  }
-  #about img{
-    width: 20%;
-  }
+    #about div{
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      align-items: center;
+    }
+    #about img{
+      width: 24%;
+    }
 
   /* ------- ideas-------- */
   .row{
